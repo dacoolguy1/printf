@@ -1,2 +1,1 @@
-# printf
-Team project
+custom implementation of printf
