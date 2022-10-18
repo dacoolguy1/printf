@@ -2,7 +2,7 @@
 
 /**
  * print_hex - prints unsigned hex numbers in lowercase
- * @ap: the argument pointer
+ * @ap: the argument pointer.
  * @params: the parameters struct
  *
  * Return: bytes printed
